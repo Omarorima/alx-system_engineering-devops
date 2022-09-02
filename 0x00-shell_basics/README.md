@@ -1,1 +1,1 @@
-Display current directory contents
+a script that lists all files
