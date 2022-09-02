@@ -1,5 +1,1 @@
-a script that changes the group owner to school for the file hello
-
-
-
-The file hello will be in the working directory
+a script that adds execute permission to the owner of the file hello
