@@ -1,1 +1,1 @@
-a script that writes into the file ls_cwd_content
+The file iacta will be in the working directory
