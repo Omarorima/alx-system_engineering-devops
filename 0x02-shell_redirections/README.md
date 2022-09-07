@@ -1,1 +1,1 @@
-a script that deletes all the regular files  with a .js extension
+a script that deletes all the regular fileswith a .js extension
