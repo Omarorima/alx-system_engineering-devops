@@ -1,1 +1,1 @@
-a shell script that creates a file
+task 7. create a file
