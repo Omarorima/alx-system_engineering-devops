@@ -1,1 +1,1 @@
-task 7create a file
+a script that writes into the file ls_cwd_content
