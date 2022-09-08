@@ -1,1 +1,1 @@
-Display the content of /etc/passwd and /etc/hosts
+ a script that deletes all the regular files
